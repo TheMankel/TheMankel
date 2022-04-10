@@ -2,8 +2,8 @@
 
 - 🔭 &nbsp;I’m currently working on **something cool :wink:**
 - 🌱 &nbsp;I’m currently learning **React, CSS, Node.js**
-- 📫 &nbsp;How to reach me **jakub.tom.jankowski@gmail.com**
-- ⚡ &nbsp;Fun fact **In my spare time I write plays and poems (weirdo)**
+- 📫 &nbsp;How to reach me: **jakub.tom.jankowski@gmail.com**
+- ⚡ &nbsp;Fun fact: **In my spare time I write plays and poems (weirdo)**
 
 
 <details>
