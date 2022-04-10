@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **In my spare time I write plays and poems (weirdo)**
 
-<h3 align="left">Connect with me: jakub.tom.jankowski@gmail.com</h3>
 <p align="left">
 </p>
 
