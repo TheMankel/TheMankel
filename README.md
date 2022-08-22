@@ -8,6 +8,9 @@
 <br>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheMankel&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=FFFFFF00"/></a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=TheMankel&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=FFFFFF00" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TheMankel&date_format=j%20M%5B%20Y%5D&background=FFFFFF" />
+    </picture>
 </p>
 
