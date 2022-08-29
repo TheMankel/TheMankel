@@ -14,8 +14,6 @@
     </picture>
 </p>
 
-
-
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheMankel&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=FFC83D&fire=FFC83D&currStreakLabel=FFC83D)](https://git.io/streak-stats)
 
