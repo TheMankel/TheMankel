@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 &nbsp;I’m currently working on a **secret project :wink:**
-- 🌱 &nbsp;I’m currently learning **Svelte**
+- 🌱 &nbsp;I’m currently learning **Svelte** and **UE5**
 - 📫 &nbsp;How to reach me: **jakub.tom.jankowski@gmail.com**
 - ⚡ &nbsp;Fun fact: **In my spare time I write plays and poems**
 
