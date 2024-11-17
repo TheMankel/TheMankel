@@ -1,8 +1,8 @@
-## Hi there <a href="https://github.com/TheMankel"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-### I'm Kuba, a Computer Science student from Poland
+## Hello there <a href="https://github.com/TheMankel"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### I'm Kuba, a Junior Software Engineer at EPR Labs
 
-- 🔭 &nbsp;I’m currently working on a **Master's Thesis project 😉**
-- 🌱 &nbsp;I’m currently improving my skills in **TypeScript** and **UE5**
+- 🔭 &nbsp;I’m currently working on a **secret game project 😉**
+- 🌱 &nbsp;I’m currently improving my skills in **Ruby on Rails** and **UE5**
 - 👀 &nbsp;I’m interested in **Web** and **Game Development**
 - 📫 &nbsp;How to reach me: **jakub.tom.jankowski@gmail.com**
 - ⚡ &nbsp;Fun fact: **In my spare time I write screenplays**
@@ -57,7 +57,7 @@
 <!--     </a> -->
     &nbsp;
 <!--     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind"> -->
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
 <!--     </a> -->
     &nbsp;
 <!--     <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="SASS"> -->
